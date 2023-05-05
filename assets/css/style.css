@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://s1.eestatic.com/2018/06/06/ciencia/meteorologia-verano-ciencia_312980585_80741646_1706x960.jpg");
+  }
+
+  h1 {
+    font-family: 'Pacifico', cursive;
+    color:rgb(48, 4, 73);
+  }
+
+  p {
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(73, 3, 3);
+  }
